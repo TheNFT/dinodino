@@ -1063,9 +1063,9 @@ blockquote p {
 }
 .hov_box-title  {
 	position: absolute;
-	top: 25%;
+	top: 85%;
 	left: 0;
-	right: 0;
+	right: 65%;
 	z-index: 3;
  	transition: all 0.3s linear;
 	opacity: 0;
@@ -1076,9 +1076,9 @@ blockquote p {
 	transform: translateY(0)
 }
 .hov_box-title a {
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 600;
-	color: #fff;
+	color: #000;
 	display: block;
 	position: relative;
 }
@@ -1090,7 +1090,7 @@ blockquote p {
 	width: 0;
 	height: 2px;
 	margin-left: 0;
-	background: #fff;
+	background: #000;
 	transition: all 0.3s linear;
 }
 .hov_box-title a:hover:before {
@@ -1100,7 +1100,7 @@ blockquote p {
 .cat_item {
 	display: inline-block;
 	margin-top:10px;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 500;
 	text-transform: uppercase;
 	z-index: 3;
