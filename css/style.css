@@ -1076,7 +1076,7 @@ blockquote p {
 	transform: translateY(0)
 }
 .hov_box-title a {
-	font-size: 11px;
+	font-size: 20px;
 	font-weight: 600;
 	color: #fff;
 	display: block;
@@ -1100,7 +1100,7 @@ blockquote p {
 .cat_item {
 	display: inline-block;
 	margin-top:10px;
-	font-size: 10px;
+	font-size: 20px;
 	font-weight: 500;
 	text-transform: uppercase;
 	z-index: 3;
