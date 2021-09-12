@@ -2192,56 +2192,6 @@ blockquote p {
         transform:rotate(360deg);
     }
 }
-/* ------404------------------------------------------------------------ */
-.error-wrap {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-}
-.error-wrap .overlay {
-	opacity: 0.5;
-}
-.error-container {
-	top:50%;
-	z-index:20;
-	transform: translateY(-50%)
-}
-.error-container:before {
-	content: '';
-	position: absolute;
-	bottom: 52px;
-	left: 50%;
-	height: 2px;
-	width: 40px;
-	margin: 0 0 0 -20px;
-}
-.error-container h2 {
-	font-size: 184px;
-	color: #fff;
-	font-weight: 700;
-	line-height:185px;
- 	font-family: 'Oswald', sans-serif;
-	padding-bottom: 20px;
-}
-.error-container p {
-	color: rgba(255, 255, 255, 0.91);
-	font-size: 11px;
-	text-align:center;
-	letter-spacing:2px;
-	font-weight: 600;
-	text-transform:uppercase;
-	margin-bottom: 30px;
-}
-.err_btn{
-	padding: 15px 50px;
-    background: #000;
-    font-size: 11px;
-	color: #fff;
-	font-weight: 600;
-	display: inline-block;
-}
 /* ------share------------------------------------------------------------ */
 .share-wrapper {
 	position:fixed;
