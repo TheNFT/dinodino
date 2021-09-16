@@ -1,2 +1,0 @@
-# dinodino
-go dino go!
